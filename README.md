@@ -38,4 +38,4 @@ Postgres · SQLite · Docker · Debian/Linux self-hosting
 - GitHub: [@ElbruzMafe](https://github.com/ElbruzMafe)
 - Email: furrkan432.fc@gmail.com
 - LinkedIn: [elbruz-mâfe-canbolat](https://www.linkedin.com/in/elbruz-m%C3%A2fe-canbolat-77665b335)
-- Site: [mafe.live](https://mafe.live)
+- Site: [elbruzlogic.me](https://elbruzlogic.me)
